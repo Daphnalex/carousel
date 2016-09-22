@@ -1,0 +1,15 @@
+#monCarousel{
+	width: 830px;
+	height: 500px;
+}
+
+#monCarousel img{
+	display: block;
+	width: 800px;
+	height: 500px;
+	position: absolute;
+	margin-bottom: 10px;
+}
+#fleche{
+	margin-top:250px;
+}
